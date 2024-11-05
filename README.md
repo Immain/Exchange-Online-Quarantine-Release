@@ -54,7 +54,3 @@ Automates the process of releasing quarantined emails from a specific sender in 
 - This script will release **ALL** quarantined messages from the specified sender. Use with caution.
 - Ensure you have the necessary permissions to perform these actions in your Exchange Online environment.
 - It's recommended to test this script in a non-production environment first.
-
-## Support
-
-For issues or questions, please contact your IT support team or the script maintainer. 
